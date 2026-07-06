@@ -1,0 +1,11 @@
+Modelo,Contexto_Tokens,KV_Cache_MB,ATTN_MB,FFN_MB,Total_Pesos_MB
+llama-2-7b.Q4_K_M.gguf,512,256.0,1218.5,2499.88,3891.24
+llama-2-7b.Q4_K_M.gguf,1024,512.0,1218.5,2499.88,3891.24
+llama-2-7b.Q4_K_M.gguf,2048,1024.0,1218.5,2499.88,3891.24
+llama-2-7b.Q4_K_M.gguf,4096,2048.0,1218.5,2499.88,3891.24
+llama-2-7b.Q4_K_M.gguf,8192,4096.0,1218.5,2499.88,3891.24
+meta-llama-3-8b.Q4_K_M.gguf,512,64.0,737.0,3255.5,4685.3
+meta-llama-3-8b.Q4_K_M.gguf,1024,128.0,737.0,3255.5,4685.3
+meta-llama-3-8b.Q4_K_M.gguf,2048,256.0,737.0,3255.5,4685.3
+meta-llama-3-8b.Q4_K_M.gguf,4096,512.0,737.0,3255.5,4685.3
+meta-llama-3-8b.Q4_K_M.gguf,8192,1024.0,737.0,3255.5,4685.3
