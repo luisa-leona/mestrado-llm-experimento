@@ -37,7 +37,9 @@ Os experimentos são automatizados através de scripts que varrem os cenários d
 
 Para rodar a bateria completa de testes (10 repetições independentes por cenário) e gerar as planilhas de métricas brutas:
 
+```bash
 python3 projeto/measure_llm.py
+```
 
 ### 4. Estrutura dos Dados Gerados
 Os arquivos .csv resultantes serão estruturados com as seguintes colunas para posterior análise estatística e plotagem de gráficos:
